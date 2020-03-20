@@ -1,7 +1,6 @@
-.name {
-    background-color: darkgreen;
+img {
+    float: left;
+    margin: 20px;
+    
+}
 
-}
-.contact {
-    flex: auto;
-}
