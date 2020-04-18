@@ -1,6 +1,35 @@
-img {
-    float: left;
-    margin: 20px;
-    
+.name {
+    background-color: rgb(19, 121, 184);
 }
 
+.profile {
+    float:left;
+}
+
+.about-me {
+    float:left;
+    margin-left: 20px;
+}
+
+.soon {
+    margin:10px;
+}
+
+.about-me {
+    margin:10px;
+    font-size:20px;
+}
+
+.row {
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom:10px;
+}
+
+@media (max-width:575) {
+    .profile {
+        width: auto ;
+        max-width: 100% ;
+        height: auto ;
+      }
+}
