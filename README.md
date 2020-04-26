@@ -22,3 +22,9 @@ Steps:
  https://github.com/jensenwong1/Bootstrap-Portfolio
  https://jensenwong1.github.io/Bootstrap-Portfolio/.
 
+Version 2.0
+
+5.  Revamped home page with a little color and a better image. 
+    Changed layout on first page only (Added resume link.
+    
+6.  Added link to project and various assignments.    
