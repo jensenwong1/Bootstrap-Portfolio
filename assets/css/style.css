@@ -1,29 +1,53 @@
-.name {
-    background-color: rgb(19, 121, 184);
+body {
+    text-align:center;
+    background-color: #E4f9f5;
 }
 
-.profile {
-    float:left;
+.navbar {
+    background-color: #E4f9f5;
 }
 
-.about-me {
-    float:left;
-    margin-left: 20px;
+h1 {
+    font-size:90px;
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+.top-container {
+    background-color: #E4f9f5;
+    position: fixed;
+    padding-top:100px;
+    margin:auto;
+}
+
+.skill {
+    width:50%;
+    Margin: 100 px auto 100px;
+}
+
+
+
+.footer-link {
+    margin-right:10px;
+}
+
+.tr {
+    margin-right:5px;
 }
 
 .soon {
-    margin:10px;
+    background-color: #E4f9f5;
 }
 
-.about-me {
-    margin:10px;
-    font-size:20px;
-}
-
-.row {
-    margin-top: 50px;
-    margin-right: 10px;
-    margin-bottom:10px;
+.contact-me {
+    margin-bottom: 10px;
 }
 
 @media (max-width:575) {
